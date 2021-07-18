@@ -26,7 +26,7 @@ SECRET_KEY = '3-ikdr7w!d8ib#!ilaxn#93g)qmwzlk+5&-eh5b&4ln!o6p)rr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False #changedbyme
 
-ALLOWED_HOSTS = ['tsfsimplebankingsystem.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','currencycom.herokuapp.com']
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
